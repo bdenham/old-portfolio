@@ -14,6 +14,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
-<embed src="../ThreeDiagrams.pdf" type="application/pdf" width="100%" height="958px" title="My Doc"/>
-
 [jekyll-organization]: https://github.com/jekyll
