@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49f02486-b0b7-4c78-86b5-2d9a4dfdaead" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/05/coding-cookbooks.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/05/document-designs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/05/documentation-plans.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/05/infographics.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/07/coding-concepts.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/02/12/framework-overviews-2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/GhostBlog.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/3Acquisition-squashed-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/3Acquisition-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/3Acquisition.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/4Computation.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/APIPart2-squashed-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/APIPart2-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/APIPart2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/APIPart3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/APIStruct-Usage2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/Acquisition.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/AppClasses-squashed-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/AppClasses-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/ArchitecturePart1-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/ArchitecturePart2-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/BaseClasses2-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/Configuration_Part1-squashed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/ExplainerPrototype.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/Framework.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/HorizonPurpose.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/HowHorizonWorksOverview3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/ThreeDiagrams.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/ToolPlugins.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/minima-social-icons.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2018/02/02/planning.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2018/02/03/overviews.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/modulemanager2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/main.scss" afterPath="$PROJECT_DIR$/assets/main.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,7 +20,17 @@
         <entry file="file://$PROJECT_DIR$/assets/main.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minima.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/minima.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -81,7 +52,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="574">
               <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding />
             </state>
@@ -248,6 +219,17 @@
             <path>
               <item name="brucedenham" type="b2602c69:ProjectViewProjectNode" />
               <item name="brucedenham" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brucedenham" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brucedenham" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+              <item name="minima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brucedenham" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brucedenham" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -310,12 +292,12 @@
       <workItem from="1517763268024" duration="671000" />
       <workItem from="1517815863207" duration="12353000" />
       <workItem from="1517858740701" duration="9000" />
-      <workItem from="1518535034573" duration="3101000" />
+      <workItem from="1518535034573" duration="3289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20781000" />
+    <option name="totallyTimeSpent" value="20969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-677" width="2560" height="1536" extended-state="6" />
@@ -485,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/minima.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/minima/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="706">
@@ -591,11 +566,6 @@
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Acquisition.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-07-coding-concepts.markdown">
@@ -698,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
+        <state relative-caret-position="574">
           <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
@@ -739,10 +709,23 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Acquisition.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/minima.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
